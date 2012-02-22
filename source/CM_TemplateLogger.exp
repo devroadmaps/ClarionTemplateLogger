@@ -1,0 +1,4 @@
+NAME 'TplDebug' GUI
+ EXPORTS
+   ODS      @?
+ ; ODS@FRsc @?
